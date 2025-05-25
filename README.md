@@ -30,7 +30,7 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos em aula para desenv
 1. Clone o repositório:
    ```bash
     
-   git clone https://github.com/Junior010101/seu-repositorio.git
+   git clone https://github.com/Junior010101/InfoSports_Trabalho.git
 
 2. Abra o arquivo `index.html` no navegador para visualizar o site.
 
